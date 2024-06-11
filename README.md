@@ -4,7 +4,7 @@ Maximum Correntropy Student's T Filter
 
 Maximum Crrentrop Kalman Filter is wrriten in Python and Matlab.
 
-If you want to use your academic project, please cite it to us.
+If you want to use your academic project, please cite to us.
 
 
 @inproceedings{candan2023interacting,
