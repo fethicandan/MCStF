@@ -1,9 +1,11 @@
 # MCStF
 Maximum Correntropy Student's T Filter
+Maximum Correntropy Student's T Filter is wrriten in Python and Matlab.
 
 # MCKF
+Maximum Correntropy Kalman Filter
 Maximum Correntropy Kalman Filter is wrriten in Python and Matlab.
-Maximum Correntropy Student's T Filter is wrriten in Python and Matlab.
+
 
 If you want to use your academic project, please cite to us.
 
